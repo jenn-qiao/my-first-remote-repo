@@ -7,6 +7,9 @@ It started life as a local git repository.
 But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
 
-commiting a change to this file
+I'm 25 years old and have just started week 1 of Academy Tech. I live in London and am American. I love to figure skate! 
+
+
+I'm excited to learn how to code!
 
 
